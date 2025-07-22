@@ -1,0 +1,8 @@
+python-pptx
+requests
+openai
+Pillow
+pandas
+openpyxl
+dotenv
+youtube_transcript_api
